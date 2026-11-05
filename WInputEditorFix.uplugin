@@ -17,7 +17,7 @@
 		{
 			"Name": "WInputEditorFix",
 			"Type": "Editor",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PostDefault"
 		}
 	],
     "Plugins": [
