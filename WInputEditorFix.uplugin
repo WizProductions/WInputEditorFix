@@ -1,7 +1,7 @@
 ﻿{
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0.0",
 	"FriendlyName": "WInputEditorFix",
 	"Description": "A fix has been implemented in the IMC editor regarding the reordering of mappings. Previously, under certain conditions, the mappings would not reorder correctly, completely disrupting the order of the mappings.",
 	"Category": "Wiz Productions",
