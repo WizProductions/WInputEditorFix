@@ -1,0 +1,29 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WInputEditorFix",
+	"Description": "A fix has been implemented in the IMC editor regarding the reordering of mappings. Previously, under certain conditions, the mappings would not reorder correctly, completely disrupting the order of the mappings.",
+	"Category": "Wiz Productions",
+	"CreatedBy": "Wiz",
+	"CreatedByURL": "https://www.wizurth.ovh",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WInputEditorFix",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+    "Plugins": [
+      {
+        "Name": "EnhancedInput",
+        "Enabled": true
+      }
+	]
+}
